@@ -1,0 +1,4 @@
+2021-11-24 18:05:31.586 +06:00 [INF] Application Starting up
+2021-11-24 18:06:15.627 +06:00 [WRN] User null validation failed: DuplicateUserName.
+2021-11-24 18:06:38.015 +06:00 [INF] User created a new account with password.
+2021-11-24 18:06:54.265 +06:00 [INF] User logged in.
